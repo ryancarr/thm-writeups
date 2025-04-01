@@ -1,0 +1,6 @@
+loot.zip
+loot/
+*.pcap
+*.bak
+*.conf
+*.creds
